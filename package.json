@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "secretsplitterwith3box",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "A simple splitter uploader",
   "engines": {
     "node": "10.x"
   },
@@ -21,12 +21,11 @@
     "ejs": "^2.5.6",
     "express": "^4.15.2",
     "cors": "",
-    "@cosmostation/cosmosjs": "",
     "bip39": "",
     "crypto": "",
-    "random-words": "",
-    "terra-address-generator": "",
-    "terratestjs": ""
+    "3box": "",
+    "create-web3-provider": "",
+    "random-words": ""
   },
   "devDependencies": {
     "request": "^2.81.0",
