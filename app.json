@@ -1,0 +1,8 @@
+{
+  "name": "Secrets Market 3Box Implementation",
+  "description": "Simple App for splitting files into parts and storing private distributed data",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
